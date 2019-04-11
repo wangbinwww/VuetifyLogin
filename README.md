@@ -39,7 +39,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 git init
 git add .
-git commit -m "first commit"
+git commit -m "初始建档"
 git remote add origin https://github.com/wangbinwww/VuetifyLogin.git
 git push -u origin master
 ```
